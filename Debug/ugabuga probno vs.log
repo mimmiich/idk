@@ -1,0 +1,3 @@
+﻿  ugabuga probno vs.cpp
+H:\c++\ugabuga probno vs\ugabuga probno vs.cpp(129,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  ugabuga probno vs.vcxproj -> H:\c++\ugabuga probno vs\Debug\ugabuga probno vs.exe
